@@ -2,7 +2,26 @@
 
 <img src="./public/main.png" width=600 />
 
-## Introduction
+## Introduction on how to run
+# 1. Navigate to the backend directory
+cd back
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the development server
+npm run dev
+
+# 1. Navigate to the frontend directory
+cd front
+
+# 2. Install dependencies
+npm install
+
+# 3. Run the development server
+npm run dev
+
+
 
 You just shipped a tiny app with three screens: a sign up page, a login page, and
 a home page that only logged in people should see. The backend is already written
